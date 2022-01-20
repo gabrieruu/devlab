@@ -1,2 +1,2 @@
 # devlab
-Portfolio projects and other ideas. 
+Repo to upload portfolio projects and other ideas. 
